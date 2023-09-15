@@ -2,7 +2,7 @@
 
 ## What do we have
 ### Requirements
-  
+  * Python 2.7
   * MOE
   * Replace the corresponding files with the files in folder ```moe```, and rerun ```moe/optimal_learning/cpp/CMakeLists.txt``` and ```moe/optimal_learning/cpp/CMakeCache.txt```.
 
